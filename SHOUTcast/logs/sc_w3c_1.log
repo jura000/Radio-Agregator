@@ -1,0 +1,8 @@
+#Software: SHOUTcast
+#Version: 2.5.5.733
+#Fields: c-ip c-dns date time cs-uri-stem c-status cs(User-Agent) sc-bytes x-duration avgbandwidth
+127.0.0.1 127.0.0.1 2018-09-10 13:03:13 /stream?title=Unknown 200 Mozilla%2F5.0%20%28Windows%20NT%206.1%3B%20Win64%3B%20x64%3B%20rv%3A62.0%29%20Gecko%2F20100101%20Firefox%2F62.0 1608098 25 514591
+127.0.0.1 127.0.0.1 2018-09-10 13:03:20 /stream?title=Unknown 200 Mozilla%2F5.0%20%28Windows%20NT%206.1%3B%20Win64%3B%20x64%3B%20rv%3A62.0%29%20Gecko%2F20100101%20Firefox%2F62.0 361744 4 723488
+127.0.0.1 127.0.0.1 2018-09-10 13:05:02 /stream?title=Unknown 200 Mozilla%2F5.0%20%28Windows%20NT%206.1%3B%20Win64%3B%20x64%3B%20rv%3A62.0%29%20Gecko%2F20100101%20Firefox%2F62.0 0 0 0
+127.0.0.1 127.0.0.1 2018-09-10 13:07:42 /stream?title=Unknown 200 Mozilla%2F5.0%20%28Windows%20NT%206.1%3B%20Win64%3B%20x64%3B%20rv%3A62.0%29%20Gecko%2F20100101%20Firefox%2F62.0 1267044 40 253408
+127.0.0.1 127.0.0.1 2018-09-10 13:09:08 /stream?title=Unknown 200 Mozilla%2F5.0%20%28Windows%20NT%206.1%3B%20Win64%3B%20x64%3B%20rv%3A62.0%29%20Gecko%2F20100101%20Firefox%2F62.0 1026926 63 130403
